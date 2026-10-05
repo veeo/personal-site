@@ -1,3 +1,6 @@
+/* Design assets are placed at the frame's exact sizes. */
+/* eslint-disable @next/next/no-img-element */
+
 type GlyphLogo = {
   kind: "glyph";
   src: string;
